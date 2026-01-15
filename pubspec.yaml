@@ -1,0 +1,25 @@
+name: campus_navigator
+description: A campus navigation app
+publish_to: 'none'
+
+environment:
+  sdk: ">=3.0.0 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  provider: ^6.1.2
+  url_launcher: ^6.3.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/floor_0.png
+    - assets/floor_1.png
+    - assets/floor_2.png
+    - assets/centria.png
