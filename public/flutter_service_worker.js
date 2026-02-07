@@ -3,9 +3,7 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 
-const RESOURCES = {".vercel/project.json": "dc016403133ff488ef6f6387a886f0a1",
-".vercel/README.txt": "2b13c79d37d6ed82a3255b83b6815034",
-"assets/AssetManifest.bin": "26437724916143c002407ecd8fef3555",
+const RESOURCES = {"assets/AssetManifest.bin": "26437724916143c002407ecd8fef3555",
 "assets/AssetManifest.bin.json": "075233bd94d4886973f41434eff4921a",
 "assets/assets/centria.png": "657b2e8a8e8d1572247c18718a72b9b3",
 "assets/assets/floor_0.png": "2102aaea07ac5281f7978d0c786793c0",
@@ -30,7 +28,7 @@ const RESOURCES = {".vercel/project.json": "dc016403133ff488ef6f6387a886f0a1",
 "canvaskit/skwasm_heavy.wasm": "b0be7910760d205ea4e011458df6ee01",
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "flutter.js": "24bc71911b75b5f8135c949e27a2984e",
-"flutter_bootstrap.js": "efa72fcf210954bd9d45cd314d6e9218",
+"flutter_bootstrap.js": "d4bc12d49eb2809f46f769c13edd5a04",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
